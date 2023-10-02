@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'FREE FAT FONT';
+    src: url(../fonts/freefatfont-regular.otf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Code Next';
+    src: url(../fonts/code-next.otf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Sometype Mono Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Regular'), url('SometypeMono-Regular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Sometype Mono Regular Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Regular Italic'), url('SometypeMono-RegularItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Sometype Mono Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Medium'), url('SometypeMono-Medium.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Sometype Mono Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Medium Italic'), url('SometypeMono-MediumItalic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Sometype Mono Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Bold'), url('SometypeMono-Bold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Sometype Mono Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sometype Mono Bold Italic'), url('SometypeMono-BoldItalic.woff') format('woff');
+    }
